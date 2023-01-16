@@ -1,4 +1,9 @@
-pandas==1.1.5
+pandas
 streamlit
-numpy==1.19.5
-matplotlib
+prophet>=1.1
+statsmodels
+openpyxl
+matplotlib-venn
+numpy
+plotly 
+scikit-learn
